@@ -43,16 +43,16 @@ const marcos = {
 
 <p align="center">
   <a href="https://github.com/Vinicius-D-Lima/life-organization">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-D-Lima&repo=life-organization&theme=tokyonight&hide_border=true" />
+    <img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-D-Lima&repo=life-organization&theme=tokyonight&hide_border=true&description_lines_count=2" />
   </a>
   <a href="https://github.com/Vinicius-D-Lima/Batalha-Pokemon">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-D-Lima&repo=Batalha-Pokemon&theme=tokyonight&hide_border=true&description_lines_count=2" />
-</a>
+    <img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-D-Lima&repo=Batalha-Pokemon&theme=tokyonight&hide_border=true&description_lines_count=2" />
+  </a>
   <a href="https://github.com/Tech-Brasil/Projeto-RH-Hotelaria">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Tech-Brasil&repo=Projeto-RH-Hotelaria&theme=tokyonight&hide_border=true" />
+    <img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=Tech-Brasil&repo=Projeto-RH-Hotelaria&theme=tokyonight&hide_border=true&description_lines_count=2" />
   </a>
   <a href="https://github.com/Vinicius-D-Lima/Adota-Pet">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-D-Lima&repo=Adota-Pet&theme=tokyonight&hide_border=true" />
+    <img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-D-Lima&repo=Adota-Pet&theme=tokyonight&hide_border=true&description_lines_count=2" />
   </a>
 </p>
 
