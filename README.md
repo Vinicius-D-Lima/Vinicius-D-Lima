@@ -42,14 +42,17 @@ const marcos = {
 ## 🚀 Projetos em destaque
 
 <p align="center">
-  <a href="https://github.com/Vinicius-D-Lima/NOME_DO_REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-D-Lima&repo=NOME_DO_REPO&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Vinicius-D-Lima/life-organization">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-D-Lima&repo=life-organization&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/Vinicius-D-Lima/Batalha-Pokemon">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-D-Lima&repo=Batalha-Pokemon&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/Tech-Brasil/Projeto-RH-Hotelaria">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tech-Brasil&repo=Projeto-RH-Hotelaria&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Vinicius-D-Lima/Adota-Pet">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-D-Lima&repo=Adota-Pet&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
