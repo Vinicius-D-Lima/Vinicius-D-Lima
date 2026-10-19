@@ -25,7 +25,7 @@ const marcos = {
   cargo: "Estagiário Full-Stack @ Rbna Consult",
   faculdade: "Ciência da Computação @ CEFET/RJ",
   noDiaADia: ["NestJS", "Next.js", "Prisma", "Azure"],
-  entregaFavorita: "Módulo completo de cálculo de tributo (AFRMM) em 5 repositórios",
+  entregaFavorita: "Módulo completo de cálculo de tributo (AFRMM)",
   estudando: ["Rust", "Sistemas Operacionais", "Machine Learning"],
   proximosPassos: ["IA", "Segurança / Pentest"],
   foraDoCodigo: "Guitarra 🎸",
