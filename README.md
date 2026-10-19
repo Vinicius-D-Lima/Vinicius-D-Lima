@@ -68,11 +68,9 @@ const marcos = {
 </p>
 
 <!-- Cobrinha (precisa do workflow snake.yml) -->
+<!-- Cobrinha -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vinicius-D-Lima/Vinicius-D-Lima/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/Vinicius-D-Lima/Vinicius-D-Lima/output/github-snake.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/Vinicius-D-Lima/Vinicius-D-Lima/output/github-snake-dark.svg" />
 </p>
 
 <!-- Rodapé -->
